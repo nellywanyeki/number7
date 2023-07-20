@@ -1,0 +1,17 @@
+public class MaxNumberCalculator {
+    maxNum = num1;
+                break;
+        }
+        
+        // Print the maximum number
+        System.out.println("The maximum number is: " + maxNum);
+        
+    }
+    
+    for (int num = 20; num <= 25; num++) {
+    sum += num;
+}
+System.out.println("The sum of numbers between 20 and 25 is: " + sum);
+
+    
+}
